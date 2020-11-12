@@ -1,0 +1,12 @@
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\bin\Debug\guiSkillsDem2DW.exe.config
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\bin\Debug\guiSkillsDem2DW.exe
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\bin\Debug\guiSkillsDem2DW.pdb
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\obj\Debug\guiSkillsDem2DW.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\obj\Debug\guiSkillsDem2DW.mainForm.resources
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\obj\Debug\guiSkillsDem2DW.Properties.Resources.resources
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\obj\Debug\guiSkillsDem2DW.csproj.GenerateResource.cache
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\obj\Debug\guiSkillsDem2DW.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\obj\Debug\guiSkillsDem2DW.exe
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\obj\Debug\guiSkillsDem2DW.pdb
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\obj\Debug\guiSkillsDem2DW.insertRecordForm.resources
+C:\Users\dylan\source\repos\guiSkillsDem2DW\guiSkillsDem2DW\obj\Debug\guiSkillsDem2DW.editRecordForm.resources
